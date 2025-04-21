@@ -12,6 +12,3 @@ COPY . .
 EXPOSE 3000
 
 CMD ["node", "server.js"]
-
-
-#made changes in docker file to check the changes occurs or not
