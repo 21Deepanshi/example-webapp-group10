@@ -12,3 +12,6 @@ COPY . .
 EXPOSE 3000
 
 CMD ["node", "server.js"]
+
+
+#this is the sample I am going to added to test my step 4
